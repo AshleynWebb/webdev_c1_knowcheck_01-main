@@ -108,6 +108,8 @@ body {
     
 }
 
+/* contact section*/
+
 .contact-section{
     background: #29326a;
     display: flex;
@@ -128,12 +130,36 @@ body {
 }
 
 .contact-icons{
+    color: #74b44a;
     margin-top: 1em;
     display: flex;
     width: 50%;
     justify-content: space-between;
     text-shadow: 2px 2px 2px #ffffff;
+    
 }
+
+#facebook{
+    color: #f08527;
+}
+
+
+#twitter{
+    color: #f08527;
+}
+
+#github{
+    color: #f08527;
+}
+
+#linkedin{
+    color: #f08527;
+}
+
+#email1{
+    color: #f08527;
+}
+
 
 .footer-container {
     background: #1b1b27;
